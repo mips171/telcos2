@@ -1,0 +1,12 @@
+[submodule "telcos2_openwrt"]
+	path = telcos2_openwrt
+	url = git@github.com:nickberry17/telcos2_openwrt.git
+[submodule "telcos2_luci"]
+	path = telcos2_luci
+	url = git@github.com:nickberry17/telcos2_luci.git
+[submodule "telcos2_custom_files"]
+	path = telcos2_custom_files
+	url = git@github.com:nickberry17/telcos2_custom_files.git
+[submodule "telcos2_private_feeds"]
+	path = telcos2_private_feeds
+	url = git@github.com:nickberry17/telcos2_private_feeds.git
